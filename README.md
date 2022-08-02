@@ -10,5 +10,5 @@
 - [Visual Studio Code](https://code.visualstudio.com/docs/?dv=win) (Direct Download)
 - [JetBrains Tools](https://www.jetbrains.com/products/#type=ide)
 - [Node.js 16](https://nodejs.org/dist/v16.15.1/node-v16.15.1-x64.msi) | [Node.js 14](https://nodejs.org/dist/v14.15.5/node-v14.15.5-x64.msi) (Direct Download)
-- [Python 3.10.5](https://code.visualstudio.com/docs/?dv=win) (Direct Download)
+- [Python 3.10.6](https://www.python.org/ftp/python/3.10.6/python-3.10.6-amd64.exe) (Direct Download)
 
