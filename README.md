@@ -8,7 +8,7 @@
 <hr>
 
 ### 🧬 Github Stats
-<a href="https://github.com/not_pogger"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=not-pogger&count_private=true&theme=gradient" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gradient" /></a>
+<a href="https://github.com/not_pogger"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=not-pogger&count_private=true&theme=discord_old_blurple" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=discord_old_blurple" /></a>
 <br />
 <br />
 
