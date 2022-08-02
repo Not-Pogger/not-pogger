@@ -4,7 +4,7 @@
 
 ![profile](https://discord.c99.nl/widget/theme-2/535128034030649344.png)
 ### 🧬 Github Stats
-!(https://github-readme-stats.vercel.app/api?username=not-pogger&show_icons=true&theme=radical)
+[![Stats](https://github-readme-stats.vercel.app/api?username=not-pogger&show_icons=true&theme=radical)
 ### 🔗 Useful links
  
 - [Visual Studio Code](https://code.visualstudio.com/docs/?dv=win) (Direct Download)
