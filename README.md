@@ -8,7 +8,9 @@
 <hr>
 
 ### 🧬 Github Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=not-pogger&show_icons=true&theme=radical)
+<a href="https://github.com/not_pogger"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=not-pogger&count_private=true&theme=radical" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=radical" /></a>
+<br />
+<br />
 ### 🔗 Useful links
  
 - [Visual Studio Code](https://code.visualstudio.com/docs/?dv=win) (Direct Download)
