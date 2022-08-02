@@ -8,7 +8,7 @@
 <hr>
 
 ### 🧬 Github Stats
-<a href="https://github.com/not_pogger"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=not-pogger&count_private=true&theme=radical" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=not_pogger&hide=html&hide_title=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=radical" /></a>
+<a href="https://github.com/not_pogger"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=not-pogger&count_private=true&theme=radical" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /></a>
 <br />
 <br />
 ### 🔗 Useful links
