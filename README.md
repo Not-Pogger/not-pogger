@@ -3,9 +3,10 @@
 [![Subscribe](https://img.shields.io/badge/SUBSCRIBE-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCNJ-E6mXluBpM0lybA8jCqQ?sub_confirmation=1)
 
 ![profile](https://discord.c99.nl/widget/theme-2/535128034030649344.png)
-
+### 🧬 Github Stats
+!(https://github-readme-stats.vercel.app/api?username=not-pogger&show_icons=true&theme=radical)
 ### 🔗 Useful links
-
+ 
 - [Visual Studio Code](https://code.visualstudio.com/docs/?dv=win) (Direct Download)
 - [JetBrains Tools](https://www.jetbrains.com/products/#type=ide)
 - [Node.js 16](https://nodejs.org/dist/v16.15.1/node-v16.15.1-x64.msi) | [Node.js 14](https://nodejs.org/dist/v14.15.5/node-v14.15.5-x64.msi) (Direct Download)
