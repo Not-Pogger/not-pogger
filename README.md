@@ -13,7 +13,7 @@
 <br />
 
 ### 🏆 Trophys
-![trophys](https://github-profile-trophy.vercel.app/?username=not-pogger&theme=discord_old_blurple&row=1&column=10)
+![trophys](https://github-profile-trophy.vercel.app/?username=not-pogger&theme=discord&row=1&column=10)
 
 ---
 
